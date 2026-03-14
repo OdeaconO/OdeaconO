@@ -82,7 +82,7 @@ Databases
 PostgreSQL • SQLite
 
 Tools & Platforms  
-Git • GitHub • Vercel • Netlify • Railway • Cloudinary
+Git • GitHub • Vercel • Netlify • Railway • Cloudinary • NeonDB
 
 ---
 
