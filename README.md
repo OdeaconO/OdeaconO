@@ -3,7 +3,18 @@
 I'm a **Frontend Developer** focused on building responsive and interactive web applications using **React**.  
 I enjoy turning ideas into clean, functional user interfaces and building tools that improve productivity and everyday workflows.
 
-React JavaScript HTML CSS REST APIs
+## 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-Markup-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-Styling-1572B6?style=for-the-badge&logo=css3)
+
+![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-Backend-000000?style=for-the-badge&logo=express)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-VersionControl-F05032?style=for-the-badge&logo=git)
 
 ---
 
