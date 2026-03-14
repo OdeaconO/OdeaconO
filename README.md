@@ -22,7 +22,7 @@ Features:
 🌐 Live Application: [kamitoshi.com](https://www.kamitoshi.com/)
 
 Tech:
-React • Node.js • Express • PostgreSQL • Cloudinary • Vercel • Railway
+React • Node.js • Express • PostgreSQL • Cloudinary • Vercel • Railway • NeonDB
 
 ---
 
